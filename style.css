@@ -86,6 +86,11 @@ body{
     color: lightgreen;
 }
 
+.no{
+    border-color: lightcoral;
+    color: lightcoral;
+}
+
 .bottonepiccolo{
     padding: 5px 10px;
     border-radius: 10px;
@@ -101,6 +106,14 @@ body{
 
 .viola{
     background-color: rgb(149,118,221);
+}
+
+.verde{
+    background-color: rgb(123,190,170);
+}
+
+.arancione{
+    background-color: rgb(231,161,75);
 }
 
 .pt1{
