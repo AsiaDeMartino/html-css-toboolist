@@ -43,7 +43,7 @@ body{
 
 .sotto{
     margin-top: 5px;
-    height: 600px;
+    height: 500px;
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
 }
@@ -114,6 +114,14 @@ body{
 
 .arancione{
     background-color: rgb(231,161,75);
+}
+
+.rosa{
+    background-color: rgb(202,107,159);
+}
+
+.lime{
+    background-color: rgb(181,199,73);
 }
 
 .pt1{
